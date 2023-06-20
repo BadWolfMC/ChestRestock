@@ -2,7 +2,7 @@ name: ChestRestock
 main: com.dumptruckman.chestrestock.ChestRestockPlugin
 version: maven-version-number
 author: dumptruckman
-api-version: 1.13
+api-version: 1.20.1
 softdepend: [Multiverse-Adventure]
 
 commands:
