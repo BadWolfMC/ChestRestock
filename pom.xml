@@ -186,7 +186,7 @@ and adjust the build number accordingly -->
         <dependency>
             <groupId>com.dumptruckman.minecraft</groupId>
             <artifactId>BukkitPlugin</artifactId>
-            <version>1.3-SNAPSHOT</version>
+            <version>1.4</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.bukkit</groupId>
