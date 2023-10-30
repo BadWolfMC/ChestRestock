@@ -146,7 +146,7 @@ and adjust the build number accordingly -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>3.3.0</version>
+                <version>3.3.1</version>
                 <configuration>
                     <enableRulesSummary>true</enableRulesSummary>
                     <configLocation>${project.basedir}/config/checks.xml</configLocation>
